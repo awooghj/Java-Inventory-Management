@@ -1,4 +1,4 @@
-# Java-Inventory-Management
+# Java Inventory Management
 
 Inventory management is an application that helps the user to control the flow of goods
 
